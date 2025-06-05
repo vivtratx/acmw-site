@@ -1,17 +1,5 @@
-```markdown
+
 # acmw-site
-```
-
-project-root/
-├── css/ # CSS styles
-├── js/ # JavaScript scripts
-├── index.html # Main homepage
-├── officers.html # Officers page
-├── LICENSE # Project license
-├── README.md # This file
-├── package.json # npm config and scripts
-
-````
 
 ## Getting Started
 
