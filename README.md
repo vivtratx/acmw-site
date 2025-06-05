@@ -39,6 +39,3 @@ To contribute:
 5. Push to your branch (`git push origin your-feature`)
 6. Open a Pull Request
 
-```
-
-```
